@@ -223,4 +223,4 @@ Ollama is offered as a full free version, meaning all features and updates are i
 Unlock the potential of AI on your Windows PC with Ollama—**download now and start your journey!**
 
 ---
-**Last updated:** 2026-10-06 11:37:18 UTC
+**Last updated:** 2026-10-06 17:39:59 UTC
